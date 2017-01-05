@@ -3,7 +3,7 @@ package org.usfirst.frc.team4571.robot.commands;
 import edu.wpi.first.wpilibj.command.CommandGroup;
 
 /**
- *
+ * Blank Autonomous
  */
 public class Autonomous extends CommandGroup {
     
